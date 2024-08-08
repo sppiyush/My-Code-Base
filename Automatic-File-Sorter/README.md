@@ -6,4 +6,4 @@
 
 <h2> Project Screenshots :- </h2>
 
-<img src="Automatic-File-Sorter/main.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="Automatic-File-Sorter/main.PNG" alt="project-screenshot" width="400" height="400">
