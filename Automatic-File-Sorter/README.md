@@ -6,14 +6,6 @@
 
 <p id="description">This project provides a Python script designed to automate the process of organizing files within a specified directory. The script categorizes and moves files into subdirectories based on their file types (e.g., .csv, .png, .txt). This tool is particularly useful for keeping directories clean and organized, ensuring that files are easily accessible and systematically arranged.</p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Organizer</title>
-</head>
-<body>
     <h1>File Organizer</h1>
     <p>This script helps in organizing files in a specified directory by moving them into subdirectories based on their file types. It supports organizing CSV files, image files (PNG format), and text files.</p>
 
@@ -54,7 +46,6 @@
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</body>
-</html>
+
 
 <a href="https://www.brahmabytes.com" target="_blank" rel="Brahma Bytes">Brahma Bytes by Piyush</a>
