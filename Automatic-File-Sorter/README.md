@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Automatic-File-Sorter</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/l2JdVHPkrEBa7FazS/200w.gif?cid=6c09b952ze762k5yvimq074hyihohhj080mgyfmt3khsw7v7&amp;ep=v1_gifs_search&amp;rid=200w.gif&amp;ct=g" alt="project-image">
+  <img src="https://cdn.dribbble.com/users/1746237/screenshots/11276091/media/fa47c19cbbbc00b2f5eceda0459c34db.gif" alt="project-image">
 </p>
 
 <p id="description">This project provides a Python script designed to automate the process of organizing files within a specified directory. The script categorizes and moves files into subdirectories based on their file types (e.g., .csv, .png, .txt). This tool is particularly useful for keeping directories clean and organized, ensuring that files are easily accessible and systematically arranged.</p>
