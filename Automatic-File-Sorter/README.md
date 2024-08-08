@@ -4,6 +4,6 @@
 
 <p id="description">This project provides a Python script designed to automate the process of organizing files within a specified directory. The script categorizes and moves files into subdirectories based on their file types (e.g. .csv .png .txt). This tool is particularly useful for keeping directories clean and organized ensuring that files are easily accessible and systematically arranged.</p>
 
-<h2> Project Screenshots:- </h2>
+<h2> Project Screenshots :- </h2>
 
-<img src="main.png" alt="project-screenshot" width="400" height="400/">
+<img src="Automatic-File-Sorter/main.PNG" alt="project-screenshot" width="400" height="400/">
